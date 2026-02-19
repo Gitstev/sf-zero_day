@@ -1,4 +1,4 @@
-def name():
+
     name = input('what is your name? ')
     print('hey ' + name)
     colour = input('whats your favourite colour? ')
